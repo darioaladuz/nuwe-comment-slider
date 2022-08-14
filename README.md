@@ -4,6 +4,7 @@ A comment slider using JavaScript and some CSS.
 
 ## How to use locally
 
+Clone the repository on your local machine
 Open the HTML file directly on your browser or run the project using Live Server.
 
 ## Screenshot
